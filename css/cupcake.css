@@ -18,3 +18,13 @@ ul {
   font-size: 25px;
   line-height: 40px;
 }
+
+p.flashy {
+  color: red;
+  font-style: italic;
+}
+
+li.best {
+  color: green;
+  font-weight: bold;
+}
